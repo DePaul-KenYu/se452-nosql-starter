@@ -19,6 +19,8 @@ Demonstrate NoSQL using Redis and Mongo as the starting point
 | ----------- | ----------- 
 | [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) | To work with WSL
 | [Java IDE Pack](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack) | To work with Java
+| [Mongo VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | To work with Mongo
+| [Redis](https://marketplace.visualstudio.com/items?itemName=Dunn.redis) | To work with Redis
 
 # Reference Documentation
 The following guides illustrate how to use some features concretely:

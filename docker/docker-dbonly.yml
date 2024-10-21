@@ -2,7 +2,6 @@
 #start:   docker-compose -f docker-dbonly.yml up -d
 #stop:    docker-compse -f docker-dbonly.yml down
 
-version: '3.8'
 services:
   postgres:
     container_name: demo-postgres
